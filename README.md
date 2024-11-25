@@ -1,4 +1,5 @@
 # sbt project with 2 sub-projects compiled with Scala 3
+https://github.com/carapace-sh/carapace-bin/issues/2597
 
 ## Usage
 
